@@ -9,6 +9,8 @@ INPUT
 N
 a1 a2 ... an
 
+where N is total no of elements in an array and a of ith  starting from 0 to n-1 for 0 indexed array.
+
 OUTPUT
 Z X
 
