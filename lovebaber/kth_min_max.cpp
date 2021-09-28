@@ -38,6 +38,8 @@ class Solution{
         sort(arr,arr+r+1);
        
         return(arr[k-1]);
+        //for lagerst kth
+        // return(arr[r-k-1]);
     }
 };
 
