@@ -3,7 +3,7 @@
 Kth smallest element
 
 Not a optimum solution. I need to get into topic more
-later i will uoedate code
+later i will update code
 
 Coded By: Harish Kumar
 Date: 28/09/2021
