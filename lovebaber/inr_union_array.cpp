@@ -2,7 +2,6 @@
 
 Find the Union and Intersection of the two sorted arrays.
 
-
 INPUT:
 1
 4 3
