@@ -2,6 +2,8 @@
 
 Find the Union and Intersection of the two sorted arrays.
 
+other approach if i find i will update code
+
 INPUT:
 1
 4 3
