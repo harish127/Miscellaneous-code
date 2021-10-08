@@ -9,3 +9,4 @@
 - [Move all negative numbers to beginning and positive to end with constant extra space](negative_sep.cpp)
 - [Find the Union and Intersection of the two sorted arrays](inr_union_array.cpp)
 - [Cyclically rotate an array by one](arr_rotate.cpp)
+- [Kadane's Algorithm](max_subarr.cpp)
