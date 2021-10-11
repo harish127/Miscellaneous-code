@@ -10,3 +10,4 @@
 - [Find the Union and Intersection of the two sorted arrays](inr_union_array.cpp)
 - [Cyclically rotate an array by one](arr_rotate.cpp)
 - [Kadane's Algorithm](max_subarr.cpp)
+- [Minimize the Heights II](maxmin_height2.cpp)
