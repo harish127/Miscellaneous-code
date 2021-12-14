@@ -12,3 +12,4 @@
 - [Kadane's Algorithm](max_subarr.cpp)
 - [Minimize the Heights II](maxmin_height2.cpp)
 - [Minimum number of jumps](min_jmp.cpp)
+- [Find the Duplicate Number](duplicate_no.cpp)
